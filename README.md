@@ -8,6 +8,13 @@
 
 > 📱 SwiftUI iOS app — iPhone version coming soon. This is a **public showcase**; the app source code is private.
 
+<details>
+<summary>繁體中文簡介</summary>
+
+**Packmon（旅行打包夥伴）**：輸入目的地和旅程，產生專屬打包清單，並在出發前提醒海關禁帶、航空安檢和當地禮儀，每條規定都附官方來源和最後查證日期。吉祥物「小史萊姆」陪你打包。這是公開展示頁，App 原始碼為私有。
+
+</details>
+
 <p align="center">
   <img src="https://packmon-travel.chenimin1006.chatgpt.site/screens/trip-setup.png" width="30%" alt="Trip setup" />
   <img src="https://packmon-travel.chenimin1006.chatgpt.site/screens/packing-list.png" width="30%" alt="Personalized packing list" />
@@ -42,6 +49,15 @@ Before generating a list, Packmon asks a few questions — age group, travel com
 
 Two widget sizes surface departure date, destination, and live packing progress right on the home screen — a nudge toward "ready to go" every time you pick up your phone.
 
+## Screenshots
+
+<p align="center">
+  <img src="assets/screenshots/01-onboarding.png" width="22%" alt="Onboarding" />
+  <img src="assets/screenshots/02-trips.png" width="22%" alt="Trips" />
+  <img src="assets/screenshots/03-checklist.png" width="22%" alt="Checklist with Packmon Jelly" />
+  <img src="assets/screenshots/04-tips.png" width="22%" alt="Tips and the Can I bring this check" />
+</p>
+
 ## Design belief
 
 > "Simple can be harder than complex."
@@ -53,6 +69,18 @@ Real simplicity means understanding all the complexity *for* the traveler first 
 Built by **TravelGenius** (3 members) and showcased at the **Taiwan Student Creator Community**.
 
 - **[I-Min (Steven) Chen](https://github.com/iminstevenchen)** — see my other work on my GitHub profile.
+
+## Repository layout
+
+```
+.
+├── README.md
+└── assets/
+    ├── screenshots/   App screenshots used above
+    └── brand/         Mascot and brand images
+```
+
+This repository is a public showcase only. The app source code lives in a private repository.
 
 ---
 
