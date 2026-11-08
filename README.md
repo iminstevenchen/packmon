@@ -3,6 +3,7 @@
 **Packmon** builds a personalized packing list from your destination, trip length, and travel style — and flags customs restrictions, airline-security limits, and local etiquette *before* you leave. Pack what you need; avoid what you can't bring.
 
 🌏 **[Live landing page](https://packmon-travel.chenimin1006.chatgpt.site/)** · 🎓 **[Featured at Taiwan Student Creator Community](https://studentcreator.tw/apps/a84f05c8-07e2-42a6-b159-453096f51e32)**
+📝 **[Take the 1-minute survey](https://iminstevenchen.github.io/packmon-web/survey/)** · 🌐 **[Web page](https://iminstevenchen.github.io/packmon-web/)**
 
 > 📱 SwiftUI iOS app — iPhone version coming soon. This is a **public showcase**; the app source code is private.
 
