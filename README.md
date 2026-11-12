@@ -4,7 +4,7 @@
 
 🌏 **[Live landing page](https://packmon-travel.chenimin1006.chatgpt.site/)** · 🎓 **[Featured at Taiwan Student Creator Community](https://studentcreator.tw/apps/a84f05c8-07e2-42a6-b159-453096f51e32)**
 
-📝 **[Take the 1-minute survey](https://iminstevenchen.github.io/packmon-web/survey/)** · 🌐 **[Web page](https://iminstevenchen.github.io/packmon-web/)**
+📝 **[Take the 1-minute survey](https://iminstevenchen.github.io/packmon-survey/survey/)** · 🌐 **[Web page](https://iminstevenchen.github.io/packmon-survey/)**
 
 > 📱 SwiftUI iOS app — iPhone version coming soon. This is a **public showcase**; the app source code is private.
 
